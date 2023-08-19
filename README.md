@@ -1,4 +1,5 @@
 # TimesUP
+<img src="Logo.png">
 A top-down escape room technical prototype foundation
 
 
