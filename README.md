@@ -1,5 +1,5 @@
 <h1>TimesUP</h1>
-<img src="Logo-removebg.png">
+<img src="Logo.png">
 
 <h2>A top-down escape room technical prototype foundation</h2>
 
